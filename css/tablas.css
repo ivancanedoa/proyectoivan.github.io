@@ -1,0 +1,36 @@
+/*DOCUMENTO CSS*/
+
+* { margin: 0px;
+padding: 0px; }
+
+
+.cabecera { text-align: center;
+            min-height: 90px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            background-color: blueviolet; 
+            margin-bottom: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large; }
+            
+            h1 { width: 100%;
+            min-height: 1px; 
+            padding-top: 20px;
+            padding-bottom: 20px;
+            background-color: blueviolet; }
+          
+
+.tablas { margin: 20px auto 10px auto; }
+
+.tablas tr:nth-child(even) { background-color:blueviolet; }
+
+.videos { margin-top: 20px;
+          text-align: center; 
+        display:flex; }
+
+h2 { margin: 20px 0px; 
+text-align: center; }
+
+.videos a:hover { text-align: center;}
+
+.videos div { width: 50%; }

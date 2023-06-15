@@ -1,0 +1,27 @@
+.Chilaquiles { text-align: center;
+    background: url(../img/chilaquiles.jpg);
+color: rgb(255, 255, 255);
+margin-top: -30px;
+font-size: xxx-large;
+font-family: 'Roboto', sans-serif;
+height: 200px;
+}
+h5{margin-bottom: -20px;
+margin-top: 30px; padding-top: 20px;}
+.subtitulo { font-size: large;
+letter-spacing: 15px;}
+article{font-family: 'Roboto', sans-serif;
+margin: 40px 15%; text-align: justify;}
+.container{display: flex;
+flex-wrap: wrap;}
+h1{margin-bottom: 10px;
+color: rgb(0, 94, 41);
+margin-left: 150px;}
+.Imagen{width: 50%; border-radius: 5px;
+}
+.Imagen img{object-fit: cover; width: 100%; height: 100%; border-radius: 10px;}
+.item1{width: 50%;
+margin-left: 159 ;}
+li{margin-left: 150px;}
+h2,h3,h4{font-size: large; color: rgb(0, 94, 41); ;}
+p{font-size: small;}
